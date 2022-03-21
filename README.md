@@ -1,5 +1,5 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm Johann, 19 year old and still in school. I haven't accomplished anything grand yet, but I hope that'll change soon. 😢
+I'm Johann, 19 years old and still in school. I haven't accomplished anything grand yet, but I hope that'll change soon. 😢
 I would like to contribute to some open-source projects, but I feel like I'm missing the skill to do so at the moment.
 
 ### stuff I did
