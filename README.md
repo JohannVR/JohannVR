@@ -5,7 +5,7 @@ I would like to contribute to some open-source projects, but I feel like I'm mis
 ### stuff I did
 
 I bought a domain and an old server that is running ESXi. I host some web applications but it's mostly just for fun.
-Some stuff I have running on my server: 😉
+Some stuff I have running on my server: 🖥
 
 - [Home Assistant](https://www.home-assistant.io/)
 - [Plex](https://www.plex.tv/)
