@@ -18,6 +18,11 @@ Some stuff I have running on my server: 😉
   - [🐈](https://cat.johannvr.com)
   - [🧱](https://rock.johannvr.com)
 
+<b>some other stuff:</b>
+- [my github gists](https://gist.github.com/JohannVR)
+- [my only repository 😓](https://github.com/JohannVR/GoogleSheetsMovieRating)
+
+
 ### 💀🗿 About me 🗿💀
 
 <img src="https://i.imgur.com/UBqLTug.png" alt="Johann" height="200" align="left">
