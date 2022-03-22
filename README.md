@@ -28,7 +28,7 @@ Some stuff I have running on my server: 🖥
 <img src="https://i.imgur.com/UBqLTug.png" alt="Johann" height="200" align="left">
 
 &nbsp;- I'm Johann 😀 <br>
-&nbsp;- I live in germany ⬛🟥🟨 <br>
+&nbsp;- I'm german 😳 <br>
 &nbsp;- I have a cat 🐱 <br>
 &nbsp;- I still go to school 😩 <br>
 &nbsp;- mental decay [💀](https://ill.johannvr.com)
