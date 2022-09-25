@@ -4,8 +4,8 @@ I would like to contribute to some open-source projects, but I feel like I'm mis
 
 ### stuff I did
 
-I bought a domain and an old server that is running ESXi. I host some web applications but it's mostly just for fun.
-Some stuff I have running on my server: 🖥
+I bought a domain and use my old pc to run Proxmox. I host some web applications but it's mostly just for fun.
+Some stuff I have running on my server:
 
 - [Home Assistant](https://www.home-assistant.io/)
 - [Plex](https://www.plex.tv/)
@@ -20,7 +20,7 @@ Some stuff I have running on my server: 🖥
 
 <b>some other stuff:</b>
 - [my github gists](https://gist.github.com/JohannVR)
-- [my only repository 😓](https://github.com/JohannVR/GoogleSheetsMovieRating)
+- [my only repository](https://github.com/JohannVR/GoogleSheetsMovieRating)
 
 ---
 
