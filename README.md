@@ -14,7 +14,7 @@ Some stuff I have running on my server:
   - [Pet my cat please](https://pet.johannvr.com)
   - [🐕](https://dog.johannvr.com)
   - [🐈](https://cat.johannvr.com)
-  - [🤡](ip.johannvr.com)
+  - [🤡](https://ip.johannvr.com)
 - [Home Assistant Add-ons](https://github.com/JohannVR/JohannVRs-Home-Assistant-Addons)
   - [Airplay 2](https://github.com/JohannVR/JohannVRs-Home-Assistant-Addons/tree/main/Airplay2)
   - [FritzAPI Tracker](https://github.com/JohannVR/JohannVRs-Home-Assistant-Addons/tree/main/Fritz-API)
